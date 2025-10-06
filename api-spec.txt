@@ -1,0 +1,7 @@
+Base URL: /api/v1
+Resources:
+- GET /users → list users
+- POST /users → create user
+- GET /users/{id} → fetch user by ID
+- PUT /users/{id} → update user
+- DELETE /users/{id} → delete user
